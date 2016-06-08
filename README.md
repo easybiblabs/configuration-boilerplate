@@ -1,3 +1,3 @@
 # Configuration Boilerplate
 
-Sample configutation files for linters, hinter and checkers.
+Sample configuration files for linters, hinter and checkers.
